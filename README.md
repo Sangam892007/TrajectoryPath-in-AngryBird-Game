@@ -1,2 +1,2 @@
-# TrajectoryPath-in-AngryBird-Game
-In this project I created trajectory path for angry birds game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
